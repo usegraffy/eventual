@@ -1,4 +1,4 @@
-import { Repeater } from "../repeater";
+import { Repeater } from "../eventual";
 import {
   AssertTypeEquals,
   deferredGen,

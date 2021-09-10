@@ -1,7 +1,7 @@
-# Repeater.js
-The missing constructor for creating safe async iterators.
+# Eventual.js
+A grand unification of promises and async iterators.
 
-For more information, visit [repeater.js.org](https://repeater.js.org).
+This project is merely getting started, and is not yet published or usable. It is based on Brian Kim's excellent [Repeater.js](https://repeater.js.org), whose docs are reproduced below.
 
 ## Installation
 

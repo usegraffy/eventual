@@ -1,6 +1,6 @@
 {
   "extends": "./tsconfig.base.json",
   "files": [
-    "src/timers.ts"
+    "src/eventual.ts"
   ]
 }

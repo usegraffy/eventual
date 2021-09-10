@@ -1,4 +1,4 @@
-import { Repeater, FixedBuffer } from "../repeater";
+import { Repeater, FixedBuffer } from "../eventual";
 // take from https://2ality.com/2019/07/testing-static-types.html
 export type AssertTypeEquals<T, TExpected> = T extends TExpected
   ? TExpected extends T
